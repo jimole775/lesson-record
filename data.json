@@ -1,0 +1,392 @@
+[
+  {
+    "title": "9.19模块九课后练习（二）-解答",
+    "times": "13",
+    "url": "99ed7958d59711ec988d5207605aa6cf"
+  },
+  {
+    "title": "5.1 分布式缓存架构：架构原理与使用中的注意事项",
+    "times": "23 * 60 + 45",
+    "url": "15fe6970d58011ecbbcfd6c5b3d757a5"
+  },
+  {
+    "title": "5.2 分布式缓存架构：常见的缓存实现形式",
+    "times": "30 * 60 + 25",
+    "url": "160ccfb0d58011eca81bd6c5b3d757a5"
+  },
+  {
+    "title": "5.3 分布式缓存架构：一致性Hash算法",
+    "times": "39 * 60 + 35",
+    "url": "161758a4d58011eca5d6d6c5b3d757a5"
+  },
+  {
+    "title": "5.4 消息队列：如何避免系统故障传递？",
+    "times": "33 * 60 + 37",
+    "url": "161fecd0d58011ec9c58d6c5b3d757a5"
+  },
+  {
+    "title": "5.5 负载均衡架构：如何用十行代码写一个负载均衡服务器？",
+    "times": "53 * 60 + 32",
+    "url": "16287af8d58011ecb6f5d6c5b3d757a5"
+  },
+  {
+    "title": "5.6 模块五课后练习（一）",
+    "times": "6 * 60 + 32",
+    "url": "1631e9d0d58011ec9f7ad6c5b3d757a5"
+  },
+  {
+    "title": "5.7 模块五课后练习（一）-解答",
+    "times": "5 * 60 + 52",
+    "url": "163c097ed58011ec8461d6c5b3d757a5"
+  },
+  {
+    "title": "5.8 分布式关系数据库（上）",
+    "times": "27 * 60 + 34",
+    "url": "16465348d58011ecaf36d6c5b3d757a5"
+  },
+  {
+    "title": "5.9 分布式关系数据库（下）",
+    "times": "24 * 60 + 40",
+    "url": "164fafbad58011ec988bd6c5b3d757a5"
+  },
+  {
+    "title": "5.10 CAP原理与NoSQL数据库架构",
+    "times": "1696",
+    "url": "165834bed58011ecafa7d6c5b3d757a5"
+  },
+  {
+    "title": "5.11 ZooKeeper与分布式一致性架构",
+    "times": "36 * 60 + 21",
+    "url": "c2fb1d70d58111ec91544e1541ff2bf4"
+  },
+  {
+    "title": "5.12 搜索引擎的基本架构",
+    "times": "27 * 60 + 23",
+    "url": "c300001ad58111ecb5784e1541ff2bf4"
+  },
+  {
+    "title": "5.13 NoSQL案例：Doris分析案例（一）",
+    "times": "28 * 60 + 13",
+    "url": "c3032be6d58111eca5484e1541ff2bf4"
+  },
+  {
+    "title": "5.14 Doris分析案例（二）：高可用与集群扩容如何设计？",
+    "times": "31 * 60 + 15",
+    "url": "c3060924d58111ecaa524e1541ff2bf4"
+  },
+  {
+    "title": "5.15 Doris分析案例（三）：扩容伸缩是如何设计的？",
+    "times": "20 * 60 + 59",
+    "url": "c308f972d58111ecaef34e1541ff2bf4"
+  },
+  {
+    "title": "5.16 模块五课后练习（二）",
+    "times": "1 * 60 + 44",
+    "url": "c30c2ff2d58111eca5064e1541ff2bf4"
+  },
+  {
+    "title": "5.17 模块五课后练习（二）-解答",
+    "times": "8 * 60 + 12",
+    "url": "c30fd7d8d58111ec982d4e1541ff2bf4"
+  },
+  {
+    "title": "6.1 性能测试：系统性能的主要技术指标",
+    "times": "42 * 60 + 21",
+    "url": "5ba1341ad58711ec8d892a111c0d60cb"
+  },
+  {
+    "title": "6.2 全链路压测的挑战",
+    "times": "20 * 60 + 20",
+    "url": "5bb0dc26d58711ecad672a111c0d60cb"
+  },
+  {
+    "title": "6.3 性能优化：系统性能优化的分层思想",
+    "times": "48 * 60 + 27",
+    "url": "5bb960eed58711ec882a2a111c0d60cb"
+  },
+  {
+    "title": "6.4 操作系统：计算机如何处理成百上千的并发请求？",
+    "times": "47 * 60 + 55",
+    "url": "5bc1e052d58711ec99b22a111c0d60cb"
+  },
+  {
+    "title": "6.5 锁：锁原语CAS与各类锁",
+    "times": "30 * 60 + 35",
+    "url": "5bca61fad58711ecaf7e2a111c0d60cb"
+  },
+  {
+    "title": "6.6 案例：异步并发分布式编程框架akka",
+    "times": "32 * 60 + 27",
+    "url": "5bd2e17cd58711ec9dd72a111c0d60cb"
+  },
+  {
+    "title": "6.10 常见数据结构与Hash表原理分析",
+    "times": "34 * 60 + 37",
+    "url": "5bfb662ed58711eca8f72a111c0d60cb"
+  },
+  {
+    "title": "6.7 模块六课后练习（一）",
+    "times": "1 * 60 + 50",
+    "url": "5bdc2570d58711ecab432a111c0d60cb"
+  },
+  {
+    "title": "6.8 模块六课后练习（一）-解答",
+    "times": "4 * 60 + 54",
+    "url": "5be64d66d58711ec85c02a111c0d60cb"
+  },
+  {
+    "title": "6.9文件与硬盘 I_O：如何把硬盘的读写速度提高十万倍？",
+    "times": "38 * 60 + 38",
+    "url": "5bf05f90d58711ecbf612a111c0d60cb"
+  },
+  {
+    "title": "6.11 红黑树原理与性能特性",
+    "times": "19 * 60 + 20",
+    "url": "b7ba09e4d58b11ec837116a878ac71fe"
+  },
+  {
+    "title": "6.12 经典算法",
+    "times": "30 * 60 + 7",
+    "url": "b7c78f1ad58b11ecb95716a878ac71fe"
+  },
+  {
+    "title": "6.13 网络通信基本原理与性能优化",
+    "times": "50 * 60 + 46",
+    "url": "b7cf6e7ed58b11ec93b616a878ac71fe"
+  },
+  {
+    "title": "6.14 非阻塞网络I_O",
+    "times": "27 * 60 + 43",
+    "url": "b7d75abcd58b11ec983316a878ac71fe"
+  },
+  {
+    "title": "6.15 模块六课后练习（二）",
+    "times": "1 * 60 + 41",
+    "url": "b7dfe484d58b11ecae1716a878ac71fe"
+  },
+  {
+    "title": "6.16 模块六课后练习（二）-解答",
+    "times": "8 * 60 + 36",
+    "url": "b7e934f8d58b11ecac8c16a878ac71fe"
+  },
+  {
+    "title": "6.17 数据库的基本原理",
+    "times": "41 * 60 + 27",
+    "url": "b7f2874cd58b11ecabf816a878ac71fe"
+  },
+  {
+    "title": "6.18 JVM虚拟机架构原理",
+    "times": "24 * 60 + 17",
+    "url": "b7fde268d58b11ec9ee016a878ac71fe"
+  },
+  {
+    "title": "6.19 JVM垃圾回收性能分析",
+    "times": "20 * 60 + 38",
+    "url": "b8080aaed58b11ecad5416a878ac71fe"
+  },
+  {
+    "title": "6.20 Java代码优化技巧及原理",
+    "times": "44 * 60 + 32",
+    "url": "b80fd720d58b11ecb7c116a878ac71fe"
+  },
+  {
+    "title": "6.21 系统性能优化案例：秒杀系统（上）",
+    "times": "15 * 60 + 50",
+    "url": "a9143ed0d58d11ec99d2ce786b8632e6"
+  },
+  {
+    "title": "6.22 系统性能优化案例：秒杀系统（下）",
+    "times": "39 * 60 + 43",
+    "url": "a921bbe6d58d11ecb6c1ce786b8632e6"
+  },
+  {
+    "title": "6.23 模块六课后练习（三）",
+    "times": "1 * 60 + 9",
+    "url": "a9299b7cd58d11ec87f6ce786b8632e6"
+  },
+  {
+    "title": "6.24 模块六课后练习（三）-解答",
+    "times": "3 * 60 + 12",
+    "url": "a93232f0d58d11ec9cf1ce786b8632e6"
+  },
+  {
+    "title": "7.1 微服务：服务本身的设计、维护以及治理",
+    "times": "33 * 60 + 22",
+    "url": "08a14bd0d58f11ec8d5a565faecf258e"
+  },
+  {
+    "title": "7.2 微服务：落地实践的策略与思路",
+    "times": "21 * 60 + 6",
+    "url": "08b30938d58f11ec96ad565faecf258e"
+  },
+  {
+    "title": "7.3 微服务网关的技术架构",
+    "times": "21 * 60 + 30",
+    "url": "08bcf682d58f11ec92b6565faecf258e"
+  },
+  {
+    "title": "7.4 领域驱动设DDD",
+    "times": "35 * 60 + 16",
+    "url": "08c764e6d58f11ec9478565faecf258e"
+  },
+  {
+    "title": "7.5 软件组件设计原则",
+    "times": "23 * 60 + 38",
+    "url": "08d137d2d58f11ecba2e565faecf258e"
+  },
+  {
+    "title": "7.6 案例：用领域驱动设计驱动系统重构",
+    "times": "43 * 60 + 10",
+    "url": "08db2cbad58f11ecbc3f565faecf258e"
+  },
+  {
+    "title": "7.7 模块七课后练习",
+    "times": "1 * 60 + 29",
+    "url": "08e5eac4d58f11ec89a4565faecf258e"
+  },
+  {
+    "title": "7.8 模块七课后练习-解答",
+    "times": "2 * 60 + 49",
+    "url": "08f3acead58f11ecb975565faecf258e"
+  },
+  {
+    "title": "8.1 安全架构：Web攻击与防护",
+    "times": "30 * 60 + 14",
+    "url": "fbc66df8d59011eca609c2ddea98ebea"
+  },
+  {
+    "title": "8.2 安全架构：加密与解密",
+    "times": "4 * 60 + 1",
+    "url": "fbcb6448d59011ec8669c2ddea98ebea"
+  },
+  {
+    "title": "8.3 安全架构：反垃圾与风控",
+    "times": "20 * 60 + 24",
+    "url": "fbce63f0d59011eca820c2ddea98ebea"
+  },
+  {
+    "title": "8.4 高可用：可用性度量",
+    "times": "23 * 60 + 59",
+    "url": "fbd165fad59011ecb121c2ddea98ebea"
+  },
+  {
+    "title": "8.5 高可用：提升系统可用性的架构方案",
+    "times": "42 * 60 + 4",
+    "url": "fbd60b78d59011ecaaa3c2ddea98ebea"
+  },
+  {
+    "title": "8.6 高可用：架构运维方案",
+    "times": "42 * 60 + 4",
+    "url": "fbd8f720d59011ecb342c2ddea98ebea"
+  },
+  {
+    "title": "8.7 高可用故障案例分析",
+    "times": "21 * 60 + 24",
+    "url": "fbdbcfd6d59011ecb3e8c2ddea98ebea"
+  },
+  {
+    "title": "8.8 模块八课后练习",
+    "times": "1 * 60 + 43",
+    "url": "fbded29ed59011ec93a9c2ddea98ebea"
+  },
+  {
+    "title": "8.9 模块八课后练习-解答",
+    "times": "1 * 60 + 29",
+    "url": "fbe37042d59011ec8d56c2ddea98ebea"
+  },
+  {
+    "title": "9.1大数据原理概述",
+    "times": "22 * 60 + 20",
+    "url": "e9bb8de2d59411eca9cdc2ddea98ebea"
+  },
+  {
+    "title": "9.2分布式文件系统HDFS",
+    "times": "28 * 60 + 0",
+    "url": "e9c074e2d59411ec8e63c2ddea98ebea"
+  },
+  {
+    "title": "9.3大数据计算框架MapReduce-编程模型",
+    "times": "43 * 60 + 1",
+    "url": "e9c351e4d59411eca4fbc2ddea98ebea"
+  },
+  {
+    "title": "9.4大数据计算框架MapReduce-架构",
+    "times": "30 * 60 + 5",
+    "url": "e9c63832d59411ec87f8c2ddea98ebea"
+  },
+  {
+    "title": "9.5大数据集群资源管理系统Yarn",
+    "times": "14 * 60 + 19",
+    "url": "e9c93532d59411ecb818c2ddea98ebea"
+  },
+  {
+    "title": "9.6大数据仓库Hive",
+    "times": "32 * 60 + 56",
+    "url": "e9cc2df0d59411ec87ddc2ddea98ebea"
+  },
+  {
+    "title": "9.7模块九课后练习（一）",
+    "times": "3 * 60 + 56",
+    "url": "e9cf575ad59411ec9d53c2ddea98ebea"
+  },
+  {
+    "title": "9.8模块九课后练习（一）-解答",
+    "times": "6 * 60 + 0",
+    "url": "e9d2c8fed59411ec952ec2ddea98ebea"
+  },
+  {
+    "title": "9.9大数据计算引擎Spark(上)",
+    "times": "38 * 60 + 16",
+    "url": "e9d619b4d59411ec9cb2c2ddea98ebea"
+  },
+  {
+    "title": "9.10大数据计算引擎Spark(下)",
+    "times": "24 * 60 + 27",
+    "url": "e9da4ed0d59411eca560c2ddea98ebea"
+  },
+  {
+    "title": "9.11流处理计算：Flink、Storm、Spark Streaming",
+    "times": "25 * 60 + 46",
+    "url": "99c5d52ed59711ec97165207605aa6cf"
+  },
+  {
+    "title": "9.12大数据基准测试工具HiBench",
+    "times": "7 * 60 + 24",
+    "url": "99cc3716d59711eca9df5207605aa6cf"
+  },
+  {
+    "title": "9.13大数据分析与可视化",
+    "times": "23 * 60 + 39",
+    "url": "99d0b732d59711ecbdf15207605aa6cf"
+  },
+  {
+    "title": "9.14网页排名算法PageRank",
+    "times": "16 * 60 + 37",
+    "url": "99d560c0d59711ecb7a55207605aa6cf"
+  },
+  {
+    "title": "9.15分类和聚类算法",
+    "times": "26 * 60 + 23",
+    "url": "99d9d88ad59711ec9f205207605aa6cf"
+  },
+  {
+    "title": "9.16推荐引擎算法",
+    "times": "7 * 60 + 42",
+    "url": "99de57fcd59711eca88d5207605aa6cf"
+  },
+  {
+    "title": "9.17机器学习与神经网络算法",
+    "times": "26 * 60 + 59",
+    "url": "99e2f85cd59711ec9fd75207605aa6cf"
+  },
+  {
+    "title": "9.18模块九课后练习（二）",
+    "times": "2 * 60 + 1",
+    "url": "99e7fba4d59711ec9c0f5207605aa6cf"
+  },
+  {
+    "title": "9.19模块九课后练习（二）-解答",
+    "times": "1 * 60 + 13",
+    "url": "99ed7958d59711ec988d5207605aa6cf"
+  }
+]
